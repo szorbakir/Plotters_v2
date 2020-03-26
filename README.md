@@ -1,12 +1,12 @@
 # Plotters_v2
 
-constructMassSpectrum.cpp —> Add trigger histograms and create Mass Spectrum. (If you want to run this code, first you need to run constructTriggerMassHists.cpp)
-
 constructTriggerMassHists.cpp —> Clean trigger histograms and store them into a root file.
 
-unc_constructMassSpectrum.cpp —> Add trigger histograms and create Mass Spectrum for JEC up and down variations. (If you want to run this code, first you need to run unc_constructTriggerMassHists.cpp)
+constructMassSpectrum.cpp —> Add trigger histograms and create Mass Spectrum. (If you want to run this code, first you need to run constructTriggerMassHists.cpp)
 
 unc_constructTriggerMassHists.cpp —> Clean trigger histograms or JEC up and down variations and store them into a root file.
+
+unc_constructMassSpectrum.cpp —> Add trigger histograms and create Mass Spectrum for JEC up and down variations. (If you want to run this code, first you need to run unc_constructTriggerMassHists.cpp)
 
 If you want to run the plotters below you need create mass spectrums with the scripts above...
 
